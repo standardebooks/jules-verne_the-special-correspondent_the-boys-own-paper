@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Special Correspondent or the Adventures of Claudius Bombarnac</dc:title>
-		<meta property="file-as" refines="#title">Special Correspondent or the Adventures of Claudius Bombarnac, The</meta>
+		<dc:title id="title">The Special Correspondent</dc:title>
+		<meta property="file-as" refines="#title">Special Correspondent, The</meta>
 		<dc:subject id="subject-1">Voyages and travels -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Reporters and reporting -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Railroad travel -- Fiction</dc:subject>
