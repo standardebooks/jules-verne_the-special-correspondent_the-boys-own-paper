@@ -56,8 +56,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">The Boy's Own Paper</dc:contributor>
-		<meta property="file-as" refines="#translator">The Boy's Own Paper</meta>
+		<dc:contributor id="translator">The Boy’s Own Paper</dc:contributor>
+		<meta property="file-as" refines="#translator">The Boy’s Own Paper</meta>
 		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
