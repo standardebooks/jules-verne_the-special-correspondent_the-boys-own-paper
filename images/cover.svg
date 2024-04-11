@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of The Special Correspondent or the Adventures of Claudius Bombarnac, by Jules Verne. Translated by Lovell, Coryell, and Company</title>
+	<title>The cover for the Standard Ebooks edition of The Special Correspondent, by Jules Verne. Translated by The Boy’s Own Paper</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -13,8 +13,8 @@
 			text-anchor: middle;
 		}
 
-		.title-xsmall{
-			font-size: 58.47953033px;
+		.title{
+			font-size: 93.56725311px;
 		}
 
 		.author{
@@ -23,8 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-xsmall" x="700" y="1740">THE SPECIAL CORRESPONDENT</text>
-	<text class="title-xsmall" x="700" y="1810">OR THE ADVENTURES</text>
-	<text class="title-xsmall" x="700" y="1880">OF CLAUDIUS BOMBARNAC</text>
-	<text class="author" x="700" y="1980">JULES VERNE</text>
+	<text class="title" x="700" y="1775">THE SPECIAL</text>
+	<text class="title" x="700" y="1875">CORRESPONDENT</text>
+	<text class="author" x="700" y="1975">JULES VERNE</text>
 </svg>
