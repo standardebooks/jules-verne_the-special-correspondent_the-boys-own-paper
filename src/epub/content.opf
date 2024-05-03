@@ -28,6 +28,10 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Special Correspondent</dc:title>
 		<meta property="file-as" refines="#title">Special Correspondent, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Adventures of Claudius Bombarnac</meta>
+		<meta property="dcterms:alternative" refines="#title">The Adventures of a Special Correspondent</meta>
+		<meta property="dcterms:alternative" refines="#title">The Adventures of a Special Correspondent in Central Asia</meta>
+		<meta property="dcterms:alternative" refines="#title">Claudius Bombarnac: Special Correspondent</meta>
 		<dc:subject id="subject-1">Voyages and travels -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Reporters and reporting -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Railroad travel -- Fiction</dc:subject>
@@ -37,43 +41,43 @@
 		<meta property="term" refines="#subject-2">sh2008110713</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2010109417</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A Parisian news reporter is assigned to travel across Asia by train, and report on what he sees and experiences, as well as on the interesting characters he meets along the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Set in the early 1890’s, &lt;i&gt;The Special Correspondent&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; tells the story of Claudius Bombarnac, special correspondent from the Parisian newspaper &lt;i&gt;Twentieth Century&lt;/i&gt;, assigned to travel the newly-completed Grand Transasiatic Railway, running from “Uzun Ada” (on the eastern coast of the Caspian Sea) to Peking (Beijing), China. Over his 13-day journey on the Grand Transasiatic he meets an eclectic cast of characters, including an impatient American businessman, a detached English lady, a Russian major, a French actor and actress, a young Chinese noble accompanied by an eccentric Doctor, and a German baron racing to circle the globe in 39 days—perhaps a nod to Verne’s &lt;i&gt;Around the Word in Eighty Days&lt;/i&gt;, published about twenty years earlier. As he meets them, Bombarnac assigns each a number in his notebook, and seeks to make their acquaintance as they travel together across Asia.&lt;/p&gt;
+			&lt;p&gt;As a dedicated special correspondent, Bombarnac’s greatest fear is that his nearly two-week journey will pass without anything interesting happening to fill his columns. His wishes are granted, and he sees as much (and perhaps more) danger and adventure as hoped. Between these episodes, we are also given an interesting look at Central Asia at the cusp of the twentieth century, influenced by the expanding political scope of Russia and China, and by the forces of modernity—Bombernac mourns the sight of electric streetlamps in ancient towns, and expresses horror when passed by two locals in Samarkand riding bicycles.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Special Correspondent&lt;/i&gt; was originally published in France in 1892, as &lt;i&gt;Claudius Bombarnac&lt;/i&gt;. Written later in Verne’s life, it shows off his knowledge of international languages, people and customs, as well as a wry sense of humor channeled through his protagonist. This English translation, originally appearing in &lt;i&gt;The Boy’s Own Paper&lt;/i&gt; in October 1893, feels surprising fresh and modern, and takes the reader on an entertaining ride along with Verne’s indefatigable news correspondent.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11263</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/specialcorrespon00vern</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Claudius_Bombarnac</meta>
 		<meta property="se:url.vcs.github">https://github.com/hlund05/jules-verne_the-special-correspondent_lovell-coryell-and-company</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">The Boy’s Own Paper</dc:contributor>
-		<meta property="file-as" refines="#translator">The Boy’s Own Paper</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="file-as" refines="#translator">Boy’s Own Paper, The</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/The_Boy%27s_Own_Paper</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Maurice Delondre</dc:contributor>
+		<meta property="file-as" refines="#artist">Delondre, Maurice</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Norm Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norm</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Harry Lund</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Lund, Harry</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
