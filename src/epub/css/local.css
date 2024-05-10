@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote,
-blockquote[epub|type~="z3998:lyrics"],
+blockquote[epub|type~="z3998:song"],
 blockquote[epub|type~="z3998:verse"]{
 	text-align: center;
 }
