@@ -23,3 +23,7 @@ abbr[epub|type~="se:era"]{
 [epub|type~="se:name.publication.book"]{
 	font-style: italic;
 }
+
+.headline{
+	font-variant: all-small-caps;
+}
