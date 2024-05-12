@@ -27,3 +27,7 @@ abbr[epub|type~="se:era"]{
 .headline{
 	font-variant: all-small-caps;
 }
+
+q{
+	font-style: italic;
+}
