@@ -2,14 +2,14 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 blockquote,
 blockquote[epub|type~="z3998:song"],
 blockquote[epub|type~="z3998:verse"]{
 	text-align: center;
-}
-
-blockquote[xml|lang]{ 
-	font-style: italic; 
 }
 
 blockquote p{
@@ -23,13 +23,13 @@ blockquote.telegram{
 	margin-right: 4em;
 }
 
-.telegram-heading{
+blockquote .telegram-heading{
 	margin-right: 1em;
 	text-align: right;
 }
 
-abbr[epub|type~="se:era"]{
-	font-variant: all-small-caps;
+blockquote[xml|lang]{ 
+	font-style: italic; 
 }
 
 [epub|type~="se:name.publication.book"]{
