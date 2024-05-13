@@ -12,8 +12,9 @@ blockquote[xml|lang]{
 	font-style: italic; 
 }
 
-blockquote p.continued{
-	margin-top: 1em;
+blockquote p{
+	margin-top: .5em;
+	text-indent: 0;
 }
 
 abbr[epub|type~="se:era"]{
