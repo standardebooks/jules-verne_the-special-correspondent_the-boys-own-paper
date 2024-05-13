@@ -17,6 +17,17 @@ blockquote p{
 	text-indent: 0;
 }
 
+blockquote.telegram{
+	text-align: justify;
+	margin-left: 4em;
+	margin-right: 4em;
+}
+
+.telegram-heading{
+	margin-right: 1em;
+	text-align: right;
+}
+
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
