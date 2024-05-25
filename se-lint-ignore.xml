@@ -5,15 +5,15 @@
 			<code>s-048</code>
 			<reason>se:name semantic placed on block element because entire block is a book title.</reason>
 		</ignore>
-        <ignore>
+		<ignore>
 			<code>t-064</code>
 			<reason>Title is titlecased to match scan - representing the title as written on an antiquated book</reason>
 		</ignore>
 	</file>
-    	<file path="content.opf">
+	<file path="content.opf">
 		<ignore>
 			<code>m-009</code>
-			<reason>Github URL does not match the expected value because this was intialized with the incorrect translator credit.  This has been updated in the relevant ebook files, but the original Github URL has been retained.</reason>
+			<reason>Github URL does not match the expected value because this was intialized with the incorrect translator credit. This has been updated in the relevant ebook files, but the original Github URL has been retained.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
