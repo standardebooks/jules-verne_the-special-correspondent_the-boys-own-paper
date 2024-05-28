@@ -2,10 +2,6 @@
 <se-lint-ignore>
 	<file path="chapter-9.xhtml">
 		<ignore>
-			<code>s-048</code>
-			<reason>se:name semantic placed on block element because entire block is a book title.</reason>
-		</ignore>
-		<ignore>
 			<code>t-064</code>
 			<reason>Title is titlecased to match scan - representing the title as written on an antiquated book</reason>
 		</ignore>

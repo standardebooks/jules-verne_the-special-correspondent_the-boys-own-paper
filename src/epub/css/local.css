@@ -28,10 +28,6 @@ blockquote[xml|lang]{
 	font-variant: all-small-caps;
 }
 
-[epub|type~="se:name.publication.book"]{
-	font-style: italic;
-}
-
 q{
 	font-style: italic;
 }
