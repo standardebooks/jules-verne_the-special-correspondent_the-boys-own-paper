@@ -32,12 +32,12 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-[epub|type~="se:name.publication.book"]{
-	font-style: italic;
+#chapter-13 blockquote{
+	font-variant: all-small-caps;
 }
 
-.headline{
-	font-variant: all-small-caps;
+[epub|type~="se:name.publication.book"]{
+	font-style: italic;
 }
 
 q{
