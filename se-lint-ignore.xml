@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-9.xhtml">
-		<ignore>
-			<code>t-064</code>
-			<reason>Title is titlecased to match scan - representing the title as written on an antiquated book</reason>
-		</ignore>
-	</file>
+
 </se-lint-ignore>
