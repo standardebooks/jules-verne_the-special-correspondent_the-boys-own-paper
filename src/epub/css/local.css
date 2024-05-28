@@ -6,12 +6,6 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
-blockquote,
-blockquote[epub|type~="z3998:song"],
-blockquote[epub|type~="z3998:verse"]{
-	text-align: center;
-}
-
 blockquote p{
 	margin-top: .5em;
 	text-indent: 0;
@@ -30,6 +24,10 @@ blockquote .telegram-heading{
 
 blockquote[xml|lang]{
 	font-style: italic;
+}
+
+#chapter-9 blockquote:first-of-type{
+	text-align: center;
 }
 
 #chapter-13 blockquote{
