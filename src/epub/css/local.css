@@ -6,6 +6,10 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
+blockquote[xml|lang]{
+	font-style: italic;
+}
+
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -23,6 +27,10 @@ abbr[epub|type~="se:era"]{
 	display: none;
 }
 
+q{
+	font-style: italic;
+}
+
 blockquote p{
 	margin-top: .5em;
 	text-indent: 0;
@@ -33,18 +41,10 @@ blockquote header{
 	text-align: right;
 }
 
-blockquote[xml|lang]{
-	font-style: italic;
-}
-
 #chapter-9 blockquote:first-of-type{
 	text-align: center;
 }
 
 #chapter-13 blockquote{
 	font-variant: all-small-caps;
-}
-
-q{
-	font-style: italic;
 }
