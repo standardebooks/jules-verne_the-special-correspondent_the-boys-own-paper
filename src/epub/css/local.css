@@ -6,6 +6,23 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
 blockquote p{
 	margin-top: .5em;
 	text-indent: 0;
