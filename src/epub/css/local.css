@@ -11,7 +11,7 @@ blockquote p{
 	text-indent: 0;
 }
 
-blockquote .telegram-heading{
+blockquote header{
 	margin-right: 1em;
 	text-align: right;
 }
