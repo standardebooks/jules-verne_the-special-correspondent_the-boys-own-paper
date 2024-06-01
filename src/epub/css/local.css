@@ -31,18 +31,14 @@ q{
 	font-style: italic;
 }
 
-blockquote p{
-	margin-top: .5em;
-	text-indent: 0;
-}
-
 blockquote header{
-	margin-right: 1em;
+	margin-bottom: 1em;
 	text-align: right;
 }
 
 #chapter-9 blockquote:first-of-type{
 	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-13 blockquote{
