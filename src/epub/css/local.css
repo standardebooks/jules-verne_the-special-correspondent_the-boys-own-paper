@@ -36,7 +36,7 @@ blockquote header{
 	text-align: right;
 }
 
-#chapter-9 blockquote:first-of-type,
+#chapter-9 blockquote:first-of-type p,
 #chapter-13 blockquote{
 	text-align: center;
 	text-indent: 0;
