@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-06-10T19:28:31Z</dc:date>
+		<meta property="dcterms:modified">2024-06-10T19:28:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,17 @@
 		<meta property="term" refines="#subject-3">sh2010109417</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A Parisian news reporter is assigned to travel across Asia by train, and report on what he sees and experiences, as well as on the interesting characters he meets along the way.</dc:description>
+		<dc:description id="description">A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set in the early 1890’s, &lt;i&gt;The Special Correspondent&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; tells the story of Claudius Bombarnac, special correspondent from the Parisian newspaper &lt;i&gt;Twentieth Century&lt;/i&gt;, assigned to travel the newly-completed Grand Transasiatic Railway, running from “Uzun Ada” (on the eastern coast of the Caspian Sea) to Peking (Beijing), China. Over his 13-day journey on the Grand Transasiatic he meets an eclectic cast of characters, including an impatient American businessman, a detached English lady, a Russian major, a French actor and actress, a young Chinese noble accompanied by an eccentric Doctor, and a German baron racing to circle the globe in 39 days—perhaps a nod to Verne’s &lt;i&gt;Around the Word in Eighty Days&lt;/i&gt;, published about twenty years earlier. As he meets them, Bombarnac assigns each a number in his notebook, and seeks to make their acquaintance as they travel together across Asia.&lt;/p&gt;
-			&lt;p&gt;As a dedicated special correspondent, Bombarnac’s greatest fear is that his nearly two-week journey will pass without anything interesting happening to fill his columns. His wishes are granted, and he sees as much (and perhaps more) danger and adventure as hoped. Between these episodes, we are also given an interesting look at Central Asia at the cusp of the twentieth century, influenced by the expanding political scope of Russia and China, and by the forces of modernity—Bombernac mourns the sight of electric streetlamps in ancient towns, and expresses horror when passed by two locals in Samarkand riding bicycles.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Special Correspondent&lt;/i&gt; was originally published in France in 1892, as &lt;i&gt;Claudius Bombarnac&lt;/i&gt;. Written later in Verne’s life, it shows off his knowledge of international languages, people and customs, as well as a wry sense of humor channeled through his protagonist. This English translation, originally appearing in &lt;i&gt;The Boy’s Own Paper&lt;/i&gt; in October 1893, feels surprising fresh and modern, and takes the reader on an entertaining ride along with Verne’s indefatigable news correspondent.&lt;/p&gt;
+			&lt;p&gt;Set in the early 1890s, &lt;i&gt;The Special Correspondent&lt;/i&gt; tells the story of Claudius Bombarnac, special correspondent from the Parisian newspaper &lt;i&gt;Twentieth Century&lt;/i&gt;, assigned to travel the newly-completed Grand Transasiatic Railway running from Uzun Ada (on the eastern coast of the Caspian Sea) to Peking (Beijing), China. Over his thirteen-day journey he meets an eclectic cast of characters, including an impatient American businessman, a detached English lady, a Russian major, a French actor and actress, a young Chinese noble accompanied by an eccentric Doctor, and a German baron racing to circle the globe in thirty-nine days—perhaps a nod to &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle"&gt;Around the Word in Eighty Days&lt;/a&gt;&lt;/i&gt;, published twenty years earlier. As he meets them, Bombarnac assigns each a number in his notebook, and seeks to get to know them as they travel together.&lt;/p&gt;
+			&lt;p&gt;As a dedicated special correspondent, Bombarnac’s greatest fear is that his nearly two-week journey will pass without anything interesting happening to fill his columns. But his fears turn out to be unfounded, and he sees as much—and perhaps even more—danger and adventure than he had hoped. Between these episodes, we’re also given an interesting look at Central Asia at the cusp of the twentieth century, influenced by the expanding political scope of Russia and China, and by the forces of modernity—Bombarnac mourns the sight of electric streetlamps in ancient towns, and expresses horror when passed by two locals in Samarkand riding bicycles.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Special Correspondent&lt;/i&gt; was originally published in France in 1892 under the title &lt;i&gt;Claudius Bombarnac&lt;/i&gt;. Written later in Verne’s life, it shows off his knowledge of languages, people, and customs, as well as his wry sense of humor. This English translation, originally appearing in &lt;i&gt;The Boy’s Own Paper&lt;/i&gt; of October 1893, feels surprising fresh and modern, and takes the reader on an entertaining ride along with Verne’s indefatigable news correspondent.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11263</dc:source>
 		<dc:source>https://archive.org/details/specialcorrespon00vern</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72269</meta>
+		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Claudius_Bombarnac</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-special-correspondent_the-boys-own-paper</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
