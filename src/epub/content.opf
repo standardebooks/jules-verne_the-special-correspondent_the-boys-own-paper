@@ -43,6 +43,9 @@
 		<meta property="term" refines="#subject-3">sh2010109417</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">38</meta>
 		<dc:description id="description">A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set in the early 1890s, &lt;i&gt;The Special Correspondent&lt;/i&gt; tells the story of Claudius Bombarnac, special correspondent from the Parisian newspaper &lt;i&gt;Twentieth Century&lt;/i&gt;, assigned to travel the newly-completed Grand Transasiatic Railway running from Uzun Ada (on the eastern coast of the Caspian Sea) to Peking (Beijing), China. Over his thirteen-day journey he meets an eclectic cast of characters, including an impatient American businessman, a detached English lady, a Russian major, a French actor and actress, a young Chinese noble accompanied by an eccentric Doctor, and a German baron racing to circle the globe in thirty-nine days—perhaps a nod to &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle"&gt;Around the Word in Eighty Days&lt;/a&gt;&lt;/i&gt;, published twenty years earlier. As he meets them, Bombarnac assigns each a number in his notebook, and seeks to get to know them as they travel together.&lt;/p&gt;
