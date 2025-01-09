@@ -36,6 +36,10 @@ blockquote header{
 	text-align: right;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 #chapter-9 blockquote:first-of-type p,
 #chapter-13 blockquote p{
 	text-align: center;
