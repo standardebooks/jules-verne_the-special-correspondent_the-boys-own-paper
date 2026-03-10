@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-13.xhtml">
 		<ignore code="t-003">
+			<line>103</line>
 			<reason>Quotes are correct as-is.</reason>
 		</ignore>
 	</file>
